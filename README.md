@@ -35,10 +35,10 @@ In order to provide an access card for the sample, there is also a simple issuer
  1. Click on the organization tile to bring up the dashboard.
  2. Click on the **Credentials** tab on the left sidebar to navigate to the Credentials View.
  3. Click on the **Create Template** button using the **New Schema** option.
- 4. Name the Template "passport" and add the following values
+ 4. Name the Template "Building Access Verification" and add the following values
      - Name
      - Title
-     - Teamn
+     - Team
      - Access
      - Phone
      - Email
@@ -51,7 +51,7 @@ In order to provide an access card for the sample, there is also a simple issuer
 ### Define a verification
 1. Click on the **Verifications** tab on the left sidebar to navigate to the Verifications View.
 2. Click on the **Create Template** button to slide out the **Create Verification Template** slider.
-3. Enter a Verification Title.
+3. Enter a Verification Title. "Building Access Verification"
 4. Click the **+ Credential Request** button and give it a name.
 5. Enter "Building Access Verification" as the Policy Name and enter both "Name", "Team", and "ID" as attributes.
 
