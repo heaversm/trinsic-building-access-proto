@@ -1,8 +1,11 @@
 {
   "name": "verifier-reference-app",
   "version": "1.1.0",
-  "private": true,
-  "description": "",
+  "description": "Mozilla Building Access Prototype",
+  "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "node app.js"
   },
